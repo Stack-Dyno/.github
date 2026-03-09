@@ -1,4 +1,4 @@
-# StackDyno 🚀
+![StackDyno Logo](https://stackdyno.com/img/stack_dyno_logo.png)
 
 **The FinOps platform designed exclusively for Google Cloud resellers.**
 
